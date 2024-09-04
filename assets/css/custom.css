@@ -1,0 +1,21 @@
+.right {
+
+	text-align: right;
+}
+
+.left {
+
+	text-align: left;
+}
+
+label {
+
+	font-weight: bold;
+	margin-bottom: 5px;
+}
+
+#titulo {
+
+	color: #878787;
+}
+
